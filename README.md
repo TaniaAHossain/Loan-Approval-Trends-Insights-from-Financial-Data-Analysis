@@ -5,18 +5,14 @@
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
 
+## Built-in
+- [Azure](https://azure.microsoft.com/en-us/)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+  
 ## Built With 
-
-
 -  [Python](https://www.python.org/)
 -  [Power BI](https://powerbi.microsoft.com/en-us/)
 -  [Excel](https://www.microsoft.com/en-us/)
-
-## Built-in
-
-- [Azure](https://azure.microsoft.com/en-us/)
-- [Power BI](https://powerbi.microsoft.com/en-us/)
-
 
 ## Analysis
 
