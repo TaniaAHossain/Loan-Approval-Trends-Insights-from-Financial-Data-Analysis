@@ -45,9 +45,9 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
 ## D. Property Area & Loan Distribution
 **7. Loan Approvals by Property Area**
 * A stacked area chart displaying loan approval rates in:
-    **Semiurban Areas:** Highest approvals.
-    **Urban Areas:** Moderate approvals.
-    **Rural Areas:** Lower approvals.
+    - **Semiurban Areas:** Highest approvals.
+    - **Urban Areas:** Moderate approvals.
+    - **Rural Areas:** Lower approvals.
 * Semiurban areas see the highest loan approvals, possibly due to better financial stability compared to rural areas.
 
 
