@@ -50,6 +50,20 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
     - **Rural Areas:** Lower approvals.
 * Semiurban areas see the highest loan approvals, possibly due to better financial stability compared to rural areas.
 
+**8. Loan Amounts by Property Location**
+* Waterfall chart showing total loan amounts distributed across property locations:
+        - **Semiurban:** 0.04M
+        - **Urban:** 0.04M
+        - **Rural:** 0.03M
+        - **Total Loan Amount:** 0.11M
+* This insight can help financial institutions allocate resources effectively.
+
+**9. Loan Status by Property Area**
+* A bar chart showing loan statuses for different property locations.
+* Useful for identifying areas where approvals are higher/lower.
+
+
+
 
 
 
