@@ -11,6 +11,7 @@
   
 ## Built With 
 -  [Python](https://www.python.org/)
+-  [Azure Synapse-Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics)
 -  [Power BI](https://powerbi.microsoft.com/en-us/)
 -  [Excel](https://www.microsoft.com/en-us/)
 
