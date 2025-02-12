@@ -1,6 +1,6 @@
 # Loan-Approval-Trends-Insights-from-Financial-Data
 
-
+![Image](https://github.com/user-attachments/assets/b1df4564-d1c8-4d3a-aaa0-16d81b69561c)
 
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
