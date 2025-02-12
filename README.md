@@ -30,3 +30,35 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
 * 289 Unknown Applications (Pending)
 * 44.6% Approval Rate
 * Highlights the success rate of loan applications.
+
+## C. Loan Amount & Income Relationship
+**5. Mapping Income to Loan Size**
+* A scatter plot showing the correlation between applicant income and loan amount.
+* Applicants with higher incomes tend to apply for larger loan amounts.
+* Some low-income applicants also receive substantial loan amounts, indicating that other factors (like credit score) play a role.
+
+**6. Correlation Between Income and Loan Amount**
+* A-line chart displaying the relationship between income and average loan amount.
+* Peaks indicate that certain income groups get higher loans.
+* Understanding this correlation can help predict future loan approval trends.
+
+## D. Property Area & Loan Distribution
+**7. Loan Approvals by Property Area**
+* A stacked area chart displaying loan approval rates in:
+    **Semiurban Areas:** Highest approvals.
+    **Urban Areas:** Moderate approvals.
+    **Rural Areas:** Lower approvals.
+* Semiurban areas see the highest loan approvals, possibly due to better financial stability compared to rural areas.
+
+
+
+
+
+
+
+
+
+
+
+
+
