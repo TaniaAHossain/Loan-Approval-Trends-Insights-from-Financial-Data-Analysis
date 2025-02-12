@@ -52,10 +52,10 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
 
 **8. Loan Amounts by Property Location**
 * Waterfall chart showing total loan amounts distributed across property locations:
-        - **Semiurban:** 0.04M
-        - **Urban:** 0.04M
-        - **Rural:** 0.03M
-        - **Total Loan Amount:** 0.11M
+   - **Semiurban:** 0.04M
+   - **Urban:** 0.04M
+   - **Rural:** 0.03M
+   - **Total Loan Amount:** 0.11M
 * This insight can help financial institutions allocate resources effectively.
 
 **9. Loan Status by Property Area**
