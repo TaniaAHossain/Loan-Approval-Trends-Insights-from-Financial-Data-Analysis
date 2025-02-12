@@ -12,3 +12,9 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
 * 78.93% of applicants are Graduates, while 21.07% are Non-Graduates.
 * This insight suggests that graduates are more likely to apply for loans.
 * Further analysis could determine if education level influences loan approval rates.
+  
+**2. Loan Status by Gender**
+* 81.14% of loan applicants are Male.
+* 18.86% of loan applicants are Female.
+* Indicates a significant gender gap in loan applications.
+* Could be analyzed further to identify whether approval rates differ between genders.
