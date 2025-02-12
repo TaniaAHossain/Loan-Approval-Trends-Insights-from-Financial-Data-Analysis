@@ -69,30 +69,30 @@ The dashboard provides several key insights that financial institutions and lend
 ## Target Marketing Strategies
 Financial institutions can implement data-driven marketing campaigns based on the insights to improve customer acquisition and retention.
 
-## 1. Personalized Loan Offers
+**1. Personalized Loan Offers**
 * Use customer segmentation to offer tailored loan products.
 * Example: High-income applicants get luxury mortgage offers, while semiurban applicants receive affordable housing loan plans.
   
-## 2. Special Loan Programs for Women
+**2. Special Loan Programs for Women**
 * Offer lower interest rates & flexible repayment options for women.
 * Conduct awareness campaigns encouraging female entrepreneurship loans.
   
-## 3. Rural & Semiurban Loan Awareness Campaigns
+**3. Rural & Semiurban Loan Awareness Campaigns**
 * Promote small business loans and home loans in semiurban & rural areas.
 * Partner with local community organizations to increase financial literacy.
 
-## 4. Digital Marketing & Social Media Engagement
+**4. Digital Marketing & Social Media Engagement**
 * Targeted ads based on applicant data (e.g., age, income, education).
 * Use social media & influencers to promote loan benefits & success stories.
 
   
 ## Key Takeaways
 
-✅ Graduates & males dominate loan applications
-✅ Semiurban areas have the highest loan approvals
-✅ Higher-income applicants apply for larger loan amounts
-✅ Loan approvals stand at 44.6%
-✅ Dashboard can be enhanced with ML predictions & trend analysis
+- ✅ Graduates & males dominate loan applications
+- ✅ Semiurban areas have the highest loan approvals
+- ✅ Higher-income applicants apply for larger loan amounts
+- ✅ Loan approvals stand at 44.6%
+- ✅ Dashboard can be enhanced with ML predictions & trend analysis
 
 The Loan Application Insights Dashboard is a powerful tool for analyzing loan approval patterns, understanding applicant demographics, and identifying factors influencing loan decisions.
 
