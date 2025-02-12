@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/902166a4-a0ff-4bdc-9068-8561338faead)
+
 ## Dashboard Analysis using Power BI 
 ## Overview 
 This interactive dashboard provides an in-depth analysis of loan applications, approvals, rejections, and various influencing factors such as applicant income, education, property location, and gender distribution. The insights from this dashboard help in understanding trends in loan approval processes and assist in decision-making.
