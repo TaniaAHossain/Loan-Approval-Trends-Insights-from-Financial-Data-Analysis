@@ -7,10 +7,16 @@
 
 ## Built With 
 
--  [Azure](https://azure.microsoft.com/en-us/)
+
 -  [Python](https://www.python.org/)
 -  [Power BI](https://powerbi.microsoft.com/en-us/)
 -  [Excel](https://www.microsoft.com/en-us/)
+
+## Built-in
+
+- [Azure](https://azure.microsoft.com/en-us/)
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+
 
 ## Analysis
 
