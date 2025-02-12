@@ -18,3 +18,15 @@ This interactive dashboard provides an in-depth analysis of loan applications, a
 * 18.86% of loan applicants are Female.
 * Indicates a significant gender gap in loan applications.
 * Could be analyzed further to identify whether approval rates differ between genders.
+  
+## B. Loan Approval & Rejection Analysis
+**3. Loan Approval vs Rejection**
+* A horizontal bar chart displaying loan application statuses based on Loan ID.
+* Helps track individual loan applications and determine rejection trends.
+
+**4. Loan Application Process Breakdown**
+* 332 Approved Applications (Y)
+* 148 Rejected Applications (N)
+* 289 Unknown Applications (Pending)
+* 44.6% Approval Rate
+* Highlights the success rate of loan applications.
