@@ -188,9 +188,25 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Graduates tend to receive higher loan amounts than non-graduates.
 - This suggests that education level may influence the perceived financial stability of applicants.
 
+ # Loan Status by Gender 
+![Image](https://github.com/user-attachments/assets/17db33af-c582-44a9-ae8e-751a91b33236)
 
+**Description:**
+- Examines loan approval trends across male and female applicants.
+  
+**Insights:**
+- Male applicants receive more loan approvals than female applicants.
+- Female applicants tend to have lower approval rates, which may indicate income differences or risk assessment biases.
 
+# Loan Status by Property Area 
+![Image](https://github.com/user-attachments/assets/f9d44f5e-7512-4d30-bcfa-ed5a08bb981c)
 
+**Description:**
+- Compares loan approvals across Rural, Urban, and Semi-Urban areas.
+  
+**Insights:**
+- Semi-Urban areas have the highest loan approvals.
+- Urban areas follow closely, while rural areas have the least approvals, likely due to lower income levels or financial risks.
 
 
 
