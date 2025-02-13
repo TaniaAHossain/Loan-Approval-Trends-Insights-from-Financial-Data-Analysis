@@ -9,6 +9,16 @@ This repository comprehensively analyzes loan application data, leveraging Azure
 * Power BI Dashboards for interactive visualization of loan approval trends.
 The project aims to improve financial decision-making by analyzing credit history, income, employment type, and demographic factors affecting loan approvals.
 
+# Key Features
+
+## Data Processing & Analysis
+* PySpark-based Data Ingestion & Cleaning
+    * Loads train/test datasets from Azure Data Lake Storage (ADLS).
+    * Uses Spark transformations for feature selection and cleaning.
+* SQL-Based Loan Data Insights
+    * Analyzes total loan applications, income-based eligibility, and credit history impact.
+    * Aggregates loan amounts based on employment type, education, and marital status.
+
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
 
