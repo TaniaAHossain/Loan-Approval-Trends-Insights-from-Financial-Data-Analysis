@@ -43,11 +43,9 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 # Visualization Analysis
 ![Image](https://github.com/user-attachments/assets/57a5837c-a088-40fd-954d-baa82315e6a4)
 ## Loan Status by Property Area and Credit History 
-
 **Description:**
    * This treemap categorizes loan approval status by property area and credit history.
-   * The size of the boxes represents the number of applicants in each category.
-     
+   * The size of the boxes represents the number of applicants in each category.     
 **Insights:**
   * Applicants with a good credit history (1) have higher loan approvals.
   * The Urban and Semi-Urban areas see a greater number of approvals compared to Rural areas.
@@ -138,7 +136,14 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - 85.4% of approved applicants have a strong credit history.
 - Only 14.6% of approvals go to applicants with no credit history.
 
+# Credit History Distribution 
 
+**Description:**
+- Displays the proportion of applicants with good (1) vs. no credit history (0).
+  
+**Insights:**
+- 84.1% of applicants have a credit history, while 15.9% do not.
+- This indicates that most applicants have an existing financial history, which could improve their approval chances.
 
 
 
