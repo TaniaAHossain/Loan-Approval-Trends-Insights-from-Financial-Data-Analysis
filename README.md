@@ -2,6 +2,13 @@
 
 ![Image](https://github.com/user-attachments/assets/b1df4564-d1c8-4d3a-aaa0-16d81b69561c)
 
+This repository comprehensively analyzes loan application data, leveraging Azure Synapse Analytics, SQL, and Power BI to extract meaningful insights. It contains:
+
+* Jupyter Notebooks using PySpark for large-scale data processing.
+* SQL Scripts for structured analysis on Azure Synapse Analytics.
+* Power BI Dashboards for interactive visualization of loan approval trends.
+The project aims to improve financial decision-making by analyzing credit history, income, employment type, and demographic factors affecting loan approvals.
+
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
 
