@@ -42,7 +42,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Visualization Analysis
 ![Image](https://github.com/user-attachments/assets/57a5837c-a088-40fd-954d-baa82315e6a4)
-## Loan Status by Property Area and Credit History (Treemap)
+## Loan Status by Property Area and Credit History 
 
 **Description:**
    * This treemap categorizes loan approval status by property area and credit history.
@@ -52,7 +52,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
   * Applicants with a good credit history (1) have higher loan approvals.
   * The Urban and Semi-Urban areas see a greater number of approvals compared to Rural areas.
 
-# Loan Amounts by Property Area over Credit History (Animated Bar Chart)
+# Loan Amounts by Property Area over Credit History 
 ![Image](https://github.com/user-attachments/assets/39004868-d5e4-40fd-a1c9-0924ff00a887)
 **Description:**
 - Displays loan amounts for different property areas, separated by credit history.
@@ -61,7 +61,17 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Credit history strongly influences loan amounts.
 - Semi-Urban areas receive the highest loan amounts.
 
-# Loan Status and Dependents Analysis (Sunburst Chart)
+ # Loan Amount vs Coapplicant Income 
+![Image](https://github.com/user-attachments/assets/bdac2d0d-7555-492f-9914-e9877d2ddad0)
+**Description:**
+- Analyzes the impact of co-applicant income on loan amounts.
+- Bubble size represents loan amount, and color represents loan status.
+  
+**Insights:**
+- Higher co-applicant incomes correlate with higher loan amounts.
+- Many loans with low co-applicant income are rejected.
+
+# Loan Status and Dependents Analysis 
 ![Image](https://github.com/user-attachments/assets/3a0bba72-891d-4ac7-aeff-c81274e0ff5d)
 **Description:**
 - Examines loan approval rates based on gender and number of dependents.
@@ -70,7 +80,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Males have more loan applications than females.
 - Dependents impact approval rates, with higher dependents reducing approval probability.
 
-##  Applicant Income vs Loan Amount (Scatter Plot)
+##  Applicant Income vs Loan Amount 
 ![Image](https://github.com/user-attachments/assets/3a5fccae-1e7f-4f77-acf8-993d9dd6c26c)
 **Description:**
  * Compares applicant income to the requested loan amount.
@@ -81,7 +91,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * Loan approvals tend to be concentrated around lower loan amounts.
  * High-income applicants have varying approval rates, suggesting other eligibility factors play a role.
 
-## Average Loan Amount by Employment Type (Bar Chart)
+## Average Loan Amount by Employment Type 
 ![Image](https://github.com/user-attachments/assets/975a0ced-6287-42d6-9b03-dc504429b8c1)
 **Description:**
  * Displays average loan amounts for Self-Employed vs Salaried applicants.
@@ -90,7 +100,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * Self-employed applicants tend to request higher loan amounts.
  * Salaried individuals have higher approval rates compared to self-employed.
 
-## Impact of Credit History on Loan Approval (Stacked Area Chart)
+## Impact of Credit History on Loan Approval 
 ![Image](https://github.com/user-attachments/assets/730c4787-3be9-430f-bf58-971479d570e0)
 
 **Description:**
@@ -100,7 +110,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * A strong credit history (1) leads to a much higher approval rate.
  * Applicants with no credit history (0) have a significantly lower chance of approval.
 
-# Interactive Distribution of Loan Amounts (Histogram)
+# Interactive Distribution of Loan Amounts
 
 ![Image](https://github.com/user-attachments/assets/68ebdf90-38f9-4a17-9375-eda1c0365849)
 **Description:**
@@ -110,7 +120,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  - Most loans fall in the 100-200 range.
  - Higher loan amounts are less frequent, indicating stricter approval conditions.
 
-# Loan Amount Distribution by Property Area (Violin Plot)
+# Loan Amount Distribution by Property Area 
 ![Image](https://github.com/user-attachments/assets/03917542-f0a8-4bc7-b865-0b58417ed7e3)
 **Description:**
  - Shows loan amount variations across Urban, Semi-Urban, and Rural areas.
@@ -119,17 +129,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Urban areas have a wider range of loan amounts.
 - Rural areas generally see lower loan amounts, likely due to different economic conditions.
 
-# Loan Amount vs Coapplicant Income (Bubble Chart)
-![Image](https://github.com/user-attachments/assets/bdac2d0d-7555-492f-9914-e9877d2ddad0)
-**Description:**
-- Analyzes the impact of co-applicant income on loan amounts.
-- Bubble size represents loan amount, and color represents loan status.
-  
-**Insights:**
-- Higher co-applicant incomes correlate with higher loan amounts.
-- Many loans with low co-applicant income are rejected.
-
-# Loan Approval Rate by Credit History (Pie Chart)
+# Loan Approval Rate by Credit History 
 ![Image](https://github.com/user-attachments/assets/70edf651-6ba5-488a-828f-9e583cc4dd1b)
 **Description:**
 - Highlights the proportion of approved loans for different credit histories.
