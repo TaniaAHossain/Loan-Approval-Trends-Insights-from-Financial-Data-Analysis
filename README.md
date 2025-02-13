@@ -19,6 +19,16 @@ The project aims to improve financial decision-making by analyzing credit histor
     * Analyzes total loan applications, income-based eligibility, and credit history impact.
     * Aggregates loan amounts based on employment type, education, and marital status.
 
+## Visualization & Business Insights
+* Power BI Dashboard
+   * Interactive loan approval trends visualization.
+   * Demographic breakdown of applicants by education, gender, and property location.
+   * Approval vs. rejection trends and income-loan correlations.
+
+* Matplotlib, Seaborn & Plotly Graphs
+   * Loan distribution by property area, employment status, and credit score.
+   * Violin & histogram plots to explore income-based loan approval trends
+
 ## Data Source
 [Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
 
