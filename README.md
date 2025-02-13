@@ -1,29 +1,78 @@
+# Loan-Approval-Prediction-using-Azure-Synapse
 
-# Loan-Approval-Trends-Insights-from-Financial-Data
+## 1. Overview
+The Jupyter Notebook is designed to analyze loan application data using Azure Synapse Analytics and PySpark. It processes large datasets using Synapse Spark Pools, performs Exploratory Data Analysis (EDA), and visualizes loan approval trends.
 
-![Image](https://github.com/user-attachments/assets/b1df4564-d1c8-4d3a-aaa0-16d81b69561c)
+## 2. Key Features
 
-## Data Source
-[Data Source](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data/data)
+**Data Ingestion & Storage:**
+  - Loads train and test datasets from Azure Data Lake Storage (ADLS).
+  - Uses PySpark’s spark.read.load() for efficient large-scale data handling.
+    
+**Data Exploration & Cleaning:**
+  - Displays sample records from both datasets.
+  - Uses PySpark transformations for data cleaning and feature selection.
+    
+**Loan Application Analysis:**
+  - Impact of Credit History on loan approvals.
+  - Income distribution analysis to assess loan eligibility.
+  - Self-Employed vs. Salaried applicants' comparison.
+    
+**Visualization & Insights:**
+  - Uses Seaborn, Plotly, and Matplotlib for interactive graphs.
+  - Analyzes loan distribution by property area and employment status.
 
-## Built-in
-- [Azure](https://azure.microsoft.com/en-us/)
-- [Power BI](https://powerbi.microsoft.com/en-us/)
-  
-## Built With 
--  [Azure Synapse-Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics)
--  [Python](https://www.python.org/)
--  [Power BI](https://powerbi.microsoft.com/en-us/)
--  [Synapse Analytics SQL](https://azure.microsoft.com/en-us/products/synapse-analytics)
--  [Excel](https://www.microsoft.com/en-us/)
+**Performance Optimization:**
+  - Utilizes Azure Synapse Spark Pools for distributed data processing.
+  - Leverages Livy session metadata to track query performance.
 
-## Analysis
 
-### Excel Project
 
-![Power BI dashboard link](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-from-Financial-Data-Analysis/blob/7fa6e0148f7066fcf6ff3aab03a57d0b3be135c0/Excel-Project-of-Finance-Loan-Approval-Data/finance-loan-approval-prediction-dashboard.pbix)
 
-![Power BI dashboard Analysis](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-from-Financial-Data-Analysis/blob/8ce5a9e4b68a53e8424af20029a5f25788b19ccd/Excel-Project-of-Finance-Loan-Approval-Data/Power%20BI%20dashboard%20analysis%20README%20(1).md)
 
-![Power Bi dashboard images](https://github.com/user-attachments/assets/7b716a5b-a455-49c4-9d35-c2431bc15b3c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
