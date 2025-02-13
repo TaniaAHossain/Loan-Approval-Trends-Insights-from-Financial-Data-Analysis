@@ -43,7 +43,7 @@ The project aims to improve financial decision-making by analyzing credit histor
 -  [Synapse Analytics SQL](https://azure.microsoft.com/en-us/products/synapse-analytics)
 -  [Excel](https://www.microsoft.com/en-us/)
 
-## Analysis
+## Exploratory Analysis and Visualization
 
 ### Excel Project
 
