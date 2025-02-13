@@ -92,9 +92,14 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  - Most loans fall in the 100-200 range.
  - Higher loan amounts are less frequent, indicating stricter approval conditions.
 
-
-
-
+# Loan Amount Distribution by Property Area (Violin Plot)
+![Image](https://github.com/user-attachments/assets/03917542-f0a8-4bc7-b865-0b58417ed7e3)
+**Description:**
+ - Shows loan amount variations across Urban, Semi-Urban, and Rural areas.
+   
+**Insights:**
+- Urban areas have a wider range of loan amounts.
+- Rural areas generally see lower loan amounts, likely due to different economic conditions.
 
 
 
