@@ -41,11 +41,14 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * Seaborn & Matplotlib for static insights.
 
 # Visualization Analysis
-![Image](https://github.com/user-attachments/assets/57a5837c-a088-40fd-954d-baa82315e6a4)
+
 ## Loan Status by Property Area and Credit History 
+![Image](https://github.com/user-attachments/assets/57a5837c-a088-40fd-954d-baa82315e6a4)
+
 **Description:**
    * This treemap categorizes loan approval status by property area and credit history.
-   * The size of the boxes represents the number of applicants in each category.     
+   * The size of the boxes represents the number of applicants in each category.
+       
 **Insights:**
   * Applicants with a good credit history (1) have higher loan approvals.
   * The Urban and Semi-Urban areas see a greater number of approvals compared to Rural areas.
