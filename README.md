@@ -52,8 +52,16 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
   * Applicants with good credit history (1) have higher loan approvals.
   * The Urban and Semi-Urban areas see a greater number of approvals compared to Rural areas.
 
+##  Applicant Income vs Loan Amount (Scatter Plot)
 
-
+![Image](https://github.com/user-attachments/assets/3a5fccae-1e7f-4f77-acf8-993d9dd6c26c)
+**Description:**
+ * Compares applicant income to the requested loan amount.
+ * Points are color-coded based on loan status (Approved = Red, Rejected = Blue).
+**Insights:**
+ * Most applicants with lower incomes request smaller loans.
+ * Loan approvals tend to be concentrated around lower loan amounts.
+ * High-income applicants have varying approval rates, suggesting other eligibility factors play a role.
 
 
 
