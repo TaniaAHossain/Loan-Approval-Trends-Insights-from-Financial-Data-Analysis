@@ -27,3 +27,33 @@ FROM (
 ) AS CombinedData
 GROUP BY Property_Area;
 ```
+**2. Highest Loan Amount from Both Datasets**
+
+```
+SELECT MAX(LoanAmount) AS Max_Loan_Amount
+FROM (
+    SELECT LoanAmount FROM train
+    UNION ALL
+    SELECT LoanAmount FROM test
+) AS CombinedLoans;
+```
+**3. Count of Unique Applicants**
+```
+SELECT COUNT(DISTINCT Loan_ID) AS Unique_Applicants
+FROM (
+    SELECT Loan_ID FROM train
+    UNION ALL
+    SELECT Loan_ID FROM test
+) AS CombinedData;
+```
+**4. Loan Applications Based on Income Threshold**
+
+```
+SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount
+FROM (
+    SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount FROM train
+    UNION ALL
+    SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount FROM test
+) AS CombinedData
+WHERE ApplicantIncome > 5000;
+```
