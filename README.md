@@ -7,7 +7,12 @@ This repository comprehensively analyzes loan application data, leveraging Azure
 * Jupyter Notebooks using PySpark for large-scale data processing.
 * SQL Scripts for structured analysis on Azure Synapse Analytics.
 * Power BI Dashboards for interactive visualization of loan approval trends.
+  
 The project aims to improve financial decision-making by analyzing credit history, income, employment type, and demographic factors affecting loan approvals.
+
+# Objective
+
+The primary objective of this project is to leverage Azure Synapse Analytics, SQL, and Power BI for a comprehensive analysis of loan approval data, enabling financial institutions to make data-driven lending decisions. By integrating PySpark for large-scale data processing, the project aims to identify key factors influencing loan approvals, including credit history, applicant income, employment type, education level, and property area. The analysis optimizes loan eligibility criteria through SQL-based aggregations and filtering while uncovering approval trends across demographics and income groups. Additionally, interactive Power BI dashboards and visual analytics using Seaborn, Matplotlib, and Plotly enhance financial insights, helping lenders refine risk assessment models and develop personalized lending strategies. The project also focuses on improving financial inclusion and addressing disparities in loan approvals among self-employed vs. salaried applicants across urban and rural regions. Ultimately, this initiative supports scalable and automated loan processing, utilizing Azure Synapse Spark Pools to streamline loan approval predictions based on historical data, ensuring efficient and transparent decision-making in financial institutions.
 
 # Key Features
 
