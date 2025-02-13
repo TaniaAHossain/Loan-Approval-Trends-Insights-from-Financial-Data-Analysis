@@ -4,10 +4,14 @@
 This repository contains SQL scripts designed for data analysis on loan application datasets using Azure Synapse Analytics SQL. The scripts merge multiple datasets (train and test) and perform various analytical operations, including aggregations, maximum values, and filtering based on income thresholds.
 
 ## Features
-* Total Loan Applications by Property Area: Counts applications across datasets.
-* Highest Loan Amount Analysis: Identifies the highest loan amount.
-* Unique Loan Applicants: Determines unique applicants across datasets.
-* Income-Based Loan Application Filtering: Retrieves applications where income surpasses a threshold.
+- **Total Loan Applications by Property Area:** Counts applications across datasets.
+- **Highest Loan Amount Analysis:** Identifies the highest loan amount.
+- **Unique Loan Applicants:** Determines unique applicants across datasets.
+- **Income-Based Loan Application Filtering:** Retrieves applications where income surpasses a threshold.
+- **Average Applicant Income Based on Credit History:** Computes the average income grouped by credit history.
+- **Self-Employed Applicant Count:** Counts the number of self-employed applicants in both datasets.
+- **Credit History Impact (Train vs. Test):** Compares the distribution of credit history records across datasets.
+- **Loan Distribution by Property Area (Train vs. Test):** Analyzes the distribution of loans across different property areas in both datasets.
 
 ## Prerequisites
 * Azure Synapse Analytics workspace.
@@ -57,3 +61,89 @@ FROM (
 ) AS CombinedData
 WHERE ApplicantIncome > 5000;
 ```
+**5. Average Applicant Income Based on Credit History**
+```
+SELECT Credit_History, AVG(ApplicantIncome) AS Avg_Applicant_Income
+FROM (
+    SELECT Credit_History, ApplicantIncome FROM train
+    UNION ALL
+    SELECT Credit_History, ApplicantIncome FROM test
+) AS CombinedData
+GROUP BY Credit_History;
+```
+**6. Count of Self-Employed Applicants**
+```
+SELECT Self_Employed, COUNT(*) AS Total_Count
+FROM (
+    SELECT Self_Employed FROM train
+    UNION ALL
+    SELECT Self_Employed FROM test
+) AS CombinedData
+GROUP BY Self_Employed;
+```
+**7. Credit History Impact (Train vs. Test)**
+
+```
+SELECT 'Train' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM train
+GROUP BY Credit_History
+
+UNION ALL
+
+SELECT 'Test' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM test
+GROUP BY Credit_History
+ORDER BY Dataset, Total_Applicants DESC;
+```
+**8. Loan Distribution by Property Area (Train vs. Test)**
+
+```
+SELECT 'Train' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM train
+GROUP BY Credit_History
+
+UNION ALL
+
+SELECT 'Test' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM test
+GROUP BY Credit_History
+ORDER BY Dataset, Total_Applicants DESC;
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
