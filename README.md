@@ -26,9 +26,19 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
   - Utilizes Azure Synapse Spark Pools for distributed data processing.
   - Leverages Livy session metadata to track query performance.
 
+# Setup Instructions
+## Prerequisites
+ * Azure Synapse Analytics workspace.
+ * Storage account with train and test datasets.
+ * Python environment with required dependencies.
 
+## PySpark Transformations for:
+ * Data cleaning & feature engineering.
+ * Aggregation & filtering of loan applications.
 
-
+## Visualization Scripts using:
+ * Plotly for interactive graphs.
+ * Seaborn & Matplotlib for static insights.
 
 
 
