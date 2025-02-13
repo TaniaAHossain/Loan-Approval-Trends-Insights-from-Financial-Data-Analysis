@@ -53,8 +53,20 @@ The project aims to improve financial decision-making by analyzing credit histor
 
 ![Power Bi dashboard images](https://github.com/user-attachments/assets/7b716a5b-a455-49c4-9d35-c2431bc15b3c)
 
+The Loan Application Insights Dashboard comprehensively analyzes loan application trends and approval rates based on multiple factors such as gender, education level, property area, and income. Here’s a summary analysis:
 
-
+* Total Loan Amount: 109K
+* Approval Rate: 44.6% (332 approved, 148 rejected, 289 pending)
+* Education: 79% Graduates, 21% Non-Graduates
+* Gender: 81% Male, 19% Female
+* Property Area:
+   * Semiurban: 149 approved, 42 rejected
+   * Urban: 98 approved, 54 rejected
+   * Rural: 85 approved, 89 rejected (higher rejection rate)
+* Financial Trends:
+   * Higher-income applicants request larger loans, but approvals vary.
+   * Urban & Semiurban areas receive more loans than rural areas.
+* Pending Decisions: A large number of applications remain in the "Unknown" category.
 
 
 
