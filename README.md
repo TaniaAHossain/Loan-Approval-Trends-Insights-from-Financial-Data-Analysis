@@ -14,7 +14,7 @@
 -  [Azure Synapse-Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics)
 -  [Python](https://www.python.org/)
 -  [Power BI](https://powerbi.microsoft.com/en-us/)
--  [SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+-  [Synapse Analytics SQL](https://azure.microsoft.com/en-us/products/synapse-analytics)
 -  [Excel](https://www.microsoft.com/en-us/)
 
 ## Analysis
