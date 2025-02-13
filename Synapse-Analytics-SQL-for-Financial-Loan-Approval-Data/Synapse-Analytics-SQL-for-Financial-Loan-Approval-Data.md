@@ -1,4 +1,4 @@
-# Combine-Analysis-using-Synapse-Analytics-SQL-for-Financial-Loan-Approval-Data
+# Synapse-Analytics-SQL-for-Financial-Loan-Approval-Data
 
 ## Overview
 This repository contains SQL scripts designed for data analysis on loan application datasets using Azure Synapse Analytics SQL. The scripts merge multiple datasets (train and test) and perform various analytical operations, including aggregations, maximum values, and filtering based on income thresholds.
