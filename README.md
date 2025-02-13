@@ -13,3 +13,15 @@ This repository contains SQL scripts designed for data analysis on loan applicat
 * Azure Synapse Analytics workspace.
 * Access to train and test datasets.
 * Basic SQL knowledge for query modifications.
+  
+## SQL Queries Breakdown
+
+**1. Total Loan Applications by Property Area**
+
+`SELECT Property_Area, COUNT(*) AS Total_Applications
+FROM (
+    SELECT Loan_ID, Property_Area FROM train
+    UNION ALL
+    SELECT Loan_ID, Property_Area FROM test
+) AS CombinedData
+GROUP BY Property_Area;`
