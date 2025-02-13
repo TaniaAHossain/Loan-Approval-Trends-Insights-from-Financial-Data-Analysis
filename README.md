@@ -52,6 +52,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Loan Amounts by Property Area over Credit History 
 ![Image](https://github.com/user-attachments/assets/39004868-d5e4-40fd-a1c9-0924ff00a887)
+
 **Description:**
 - Displays loan amounts for different property areas, separated by credit history.
   
@@ -61,6 +62,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
  # Loan Amount vs Coapplicant Income 
 ![Image](https://github.com/user-attachments/assets/bdac2d0d-7555-492f-9914-e9877d2ddad0)
+
 **Description:**
 - Analyzes the impact of co-applicant income on loan amounts.
 - Bubble size represents loan amount, and color represents loan status.
@@ -71,6 +73,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Loan Status and Dependents Analysis 
 ![Image](https://github.com/user-attachments/assets/3a0bba72-891d-4ac7-aeff-c81274e0ff5d)
+
 **Description:**
 - Examines loan approval rates based on gender and number of dependents.
   
@@ -80,6 +83,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 ##  Applicant Income vs Loan Amount 
 ![Image](https://github.com/user-attachments/assets/3a5fccae-1e7f-4f77-acf8-993d9dd6c26c)
+
 **Description:**
  * Compares applicant income to the requested loan amount.
  * Points are color-coded based on loan status (Approved = Red, Rejected = Blue).
@@ -91,6 +95,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 ## Average Loan Amount by Employment Type 
 ![Image](https://github.com/user-attachments/assets/975a0ced-6287-42d6-9b03-dc504429b8c1)
+
 **Description:**
  * Displays average loan amounts for Self-Employed vs Salaried applicants.
    
@@ -99,6 +104,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * Salaried individuals have higher approval rates compared to self-employed.
 
 ## Impact of Credit History on Loan Approval 
+
 ![Image](https://github.com/user-attachments/assets/730c4787-3be9-430f-bf58-971479d570e0)
 
 **Description:**
@@ -111,6 +117,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 # Interactive Distribution of Loan Amounts
 
 ![Image](https://github.com/user-attachments/assets/68ebdf90-38f9-4a17-9375-eda1c0365849)
+
 **Description:**
  - Represents the distribution of loan amounts across applicants.
    
@@ -119,7 +126,9 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  - Higher loan amounts are less frequent, indicating stricter approval conditions.
 
 # Loan Amount Distribution by Property Area 
+
 ![Image](https://github.com/user-attachments/assets/03917542-f0a8-4bc7-b865-0b58417ed7e3)
+
 **Description:**
  - Shows loan amount variations across Urban, Semi-Urban, and Rural areas.
    
@@ -127,8 +136,10 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Urban areas have a wider range of loan amounts.
 - Rural areas generally see lower loan amounts, likely due to different economic conditions.
 
-# Loan Approval Rate by Credit History 
+# Loan Approval Rate by Credit History
+
 ![Image](https://github.com/user-attachments/assets/70edf651-6ba5-488a-828f-9e583cc4dd1b)
+
 **Description:**
 - Highlights the proportion of approved loans for different credit histories.
   
@@ -137,7 +148,9 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Only 14.6% of approvals go to applicants with no credit history.
 
 # Credit History Distribution 
+
 ![Image](https://github.com/user-attachments/assets/49b64cc8-2701-4231-bc9f-2066a81dcb02)
+
 **Description:**
 - Displays the proportion of applicants with good (1) vs. no credit history (0).
   
@@ -145,11 +158,35 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - 84.1% of applicants have a credit history, while 15.9% do not.
 - This indicates that most applicants have an existing financial history, which could improve their approval chances.
 
+# Distribution of Loan Amounts
+![Image](https://github.com/user-attachments/assets/96e5de11-b8ca-4bfc-a25b-6a3aa1d44053)
 
+**Description:**
+- Represents the frequency of different loan amounts across applicants.
+  
+**Insights:**
+- Most loans fall within the 100-200 range.
+- Higher loan amounts (>400) are less frequent, suggesting stricter approval conditions.
 
+# Loan Amount Distribution by Marital Status 
+![Image](https://github.com/user-attachments/assets/72cea29b-97b1-4393-b4b1-8d034f2b4c02)
 
+**Description:** 
+- Compares the proportion of loans by marital status (Married vs. Single).
+  
+**Insights:**
+- 55.5% of loans go to married individuals, while 44.5% go to single applicants.
+- This could indicate that married applicants have higher approval rates, possibly due to dual income sources.
 
+# Loan Amount Trend by Education Level 
+![Image](https://github.com/user-attachments/assets/821257d3-5fbd-43a8-9d6c-47b61292d062)
 
+**Description:**
+- Shows the average loan amount trends between graduates and non-graduates.
+  
+**Insights:**
+- Graduates tend to receive higher loan amounts than non-graduates.
+- This suggests that education level may influence the perceived financial stability of applicants.
 
 
 
