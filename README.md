@@ -137,7 +137,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Only 14.6% of approvals go to applicants with no credit history.
 
 # Credit History Distribution 
-
+![Image](https://github.com/user-attachments/assets/49b64cc8-2701-4231-bc9f-2066a81dcb02)
 **Description:**
 - Displays the proportion of applicants with good (1) vs. no credit history (0).
   
