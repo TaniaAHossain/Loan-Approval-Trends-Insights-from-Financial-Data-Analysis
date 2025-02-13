@@ -213,21 +213,21 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Key Takeaways
 
-**1. Credit History is the Biggest Factor** – 85.4% of approved loans belong to applicants with a good credit history.
+**- Credit History is the Biggest Factor** – 85.4% of approved loans belong to applicants with a good credit history.
 
-**2. Loan Amounts Cluster Between 100-200** – Most approved loans fall in this range; higher amounts face stricter approvals.
+**- Loan Amounts Cluster Between 100-200** – Most approved loans fall in this range; higher amounts face stricter approvals.
 
-**3. Married and Graduate Applicants Receive More Loans** – Marital status and education level positively impact loan amounts.
+**- Married and Graduate Applicants Receive More Loans** – Marital status and education level positively impact loan amounts.
 
-**4. Higher Income Leads to More Approvals** – Both applicant and co-applicant income influence loan acceptance rates.
+**- Higher Income Leads to More Approvals** – Both applicant and co-applicant income influence loan acceptance rates.
 
-**5. Self-Employed Applicants Request Higher Loans but Face More Scrutiny** – Salaried applicants are approved more quickly.
+**- Self-Employed Applicants Request Higher Loans but Face More Scrutiny** – Salaried applicants are approved more quickly.
 
-**6. Semi-Urban Areas Have the Highest Loan Approvals** – Rural applicants face lower approval rates due to financial risk factors.
+**- Semi-Urban Areas Have the Highest Loan Approvals** – Rural applicants face lower approval rates due to financial risk factors.
 
-**7. Men Receive More Loans Than Women** – Gender disparity is evident in approval trends.
+**- Men Receive More Loans Than Women** – Gender disparity is evident in approval trends.
 
-**8. Property Area and Credit History Together Influence Approvals** – Rural applicants with poor credit history have the lowest chances.
+**- Property Area and Credit History Together Influence Approvals** – Rural applicants with poor credit history have the lowest chances.
 
 # Conclusion 
 Loan approvals are primarily driven by credit history, income, and demographic factors. Higher-income, married, and graduate applicants see better approval rates, especially in semi-urban areas, while self-employed and rural applicants struggle with stricter conditions. These insights can help financial institutions refine lending policies and risk models.
