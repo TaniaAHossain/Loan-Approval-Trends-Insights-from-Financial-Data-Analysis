@@ -59,6 +59,26 @@ The SQL queries analyze loan applications using Azure Synapse Analytics, merging
 * **Credit History & Approval Rates:** Examines credit history impact and compares trends across datasets.
 * **Income & Employment Trends:** Filters high-income applicants and analyzes self-employed loan trends.
 
+### Examples of Some Queries
+
+```
+SELECT 'Train' AS Dataset, 
+       Property_Area, 
+       COUNT(*) AS Total_Loans
+FROM train
+GROUP BY Property_Area
+
+UNION ALL
+
+SELECT 'Test' AS Dataset, 
+       Property_Area, 
+       COUNT(*) AS Total_Loans
+FROM test
+GROUP BY Property_Area
+ORDER BY Dataset, Total_Loans DESC;
+```
+![Image](https://github.com/user-attachments/assets/206a5317-6711-4ea1-b8a8-ca8d01f4b4ee)
+
 
 
 
