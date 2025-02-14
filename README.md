@@ -169,9 +169,11 @@ The loan application analysis reveals that graduates and male applicants dominat
 
 The Loan Approval Prediction project uses Azure Synapse Analytics and PySpark to analyze loan data, perform EDA, and visualize approval trends. Key insights reveal that credit history is the strongest predictor, with 85.4% of approved loans linked to good credit. Higher-income applicants have better approval rates, while self-employed individuals face stricter scrutiny. Semi-Urban areas see the highest approvals, and married and graduate applicants receive larger loans, emphasizing financial stability. This project helps financial institutions refine risk models, optimize lending policies, and improve decision-making.
 
+* **Interactive Loan Amount Trends Across Different Variables:**
 
+![Image](https://github.com/user-attachments/assets/260a2afc-3607-489c-b261-ed2e293569e7)
 
-
+The interactive loan amount trends analysis highlights key factors influencing loan approvals and amounts across different demographic and financial categories. Gender differences show minimal impact, while married individuals receive higher loan amounts, likely due to dual-income stability. Graduates secure larger loans, reflecting their higher earning potential and financial security. Self-employed applicants tend to take larger but more variable loans, indicating their diverse financial needs and income fluctuations. Urban applicants receive higher loan amounts, aligning with higher property values, and applicants with a strong credit history are favored in loan approvals. This analysis provides insights for lenders to refine loan policies, ensuring fair and data-driven lending decisions while managing risk effectively.
 
 
 
