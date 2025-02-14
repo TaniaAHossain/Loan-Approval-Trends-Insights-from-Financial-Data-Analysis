@@ -50,6 +50,33 @@ The primary objective of this project is to leverage Azure Synapse Analytics, SQ
 
 ## Exploratory Analysis and Visualization
 
+### SQL Analysis
+
+The SQL queries analyze loan applications using Azure Synapse Analytics, merging train and test datasets to extract key insights.
+
+* **Loan Application Trends:** Counts total applications and unique applicants by property area.
+* **Loan Amount Insights:** Identifies highest loan amounts, average income by credit history, and loan distributions.
+* **Credit History & Approval Rates:** Examines credit history impact and compares trends across datasets.
+* **Income & Employment Trends:** Filters high-income applicants and analyzes self-employed loan trends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Excel Project
 
 ![Power BI dashboard link](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-from-Financial-Data-Analysis/blob/7fa6e0148f7066fcf6ff3aab03a57d0b3be135c0/Excel-Project-of-Finance-Loan-Approval-Data/finance-loan-approval-prediction-dashboard.pbix)
