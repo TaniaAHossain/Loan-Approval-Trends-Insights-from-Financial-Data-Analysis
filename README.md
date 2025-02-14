@@ -121,7 +121,7 @@ FROM (
 ) AS CombinedData
 WHERE ApplicantIncome > 5000;
 ```
-![Image](https://github.com/user-attachments/assets/ebce5f07-137e-4133-88bc-9c9e8017cba9)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/a0f585142b5e19c9a59bd4350edafc17a0f7a5b0/Images-for-readme/Combine%20Analysis.jpeg)
 
 * **Total Loan Applications by Property Area:**
 ```
@@ -134,7 +134,7 @@ FROM (
 GROUP BY Property_Area;
 ```
 
-![Image](https://github.com/user-attachments/assets/17fc651c-c4a7-49a0-8c37-d9c947db7bc2)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/a0f585142b5e19c9a59bd4350edafc17a0f7a5b0/Images-for-readme/sql%202.jpg)
 
 The SQL analysis highlights that credit history is the strongest predictor of loan approvals, with higher-income applicants and urban residents receiving more loans. Self-employed applicants face stricter scrutiny despite requesting higher amounts. Trends in train and test datasets remain consistent, confirming the data’s reliability for predictive modeling. This analysis helps financial institutions refine risk assessment models and optimize loan approval strategies.
 
