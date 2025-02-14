@@ -78,7 +78,7 @@ FROM test
 GROUP BY Property_Area
 ORDER BY Dataset, Total_Loans DESC;
 ```
-
+![Image](https://github.com/user-attachments/assets/f1f2f884-7fc2-45c0-9552-e3c128c8a83e)
 
 *  **Credit History Impact:**
 ```
