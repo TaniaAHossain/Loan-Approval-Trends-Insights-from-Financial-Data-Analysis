@@ -50,7 +50,7 @@ The primary objective of this project is to leverage Azure Synapse Analytics, SQ
 
 ## Exploratory Analysis and Visualization
 
-## SQL Analysis
+## SQL Analysis using Azure Synapse Analytics
 
 The SQL queries analyze loan applications using Azure Synapse Analytics, merging train and test datasets to extract key insights.
 
@@ -163,7 +163,11 @@ The Loan Application Insights Dashboard comprehensively analyzes loan applicatio
 
 The loan application analysis reveals that graduates and male applicants dominate the application pool, with higher approval rates observed in semiurban and urban areas compared to rural regions. While higher-income applicants tend to request larger loans, approval is not solely based on income, suggesting other influencing factors such as credit history and collateral. A significant number of applications remain in the "Unknown" category, indicating delays in processing or missing information. To enhance approval rates and streamline the process, financial institutions should improve transparency, address rejection reasons, and ensure equitable access to loans across different property areas.
 
+## Python Works using Azure Synapse Analytics
 
+
+
+The Loan Approval Prediction project utilizes Azure Synapse Analytics and PySpark to analyze loan application data, conduct exploratory data analysis (EDA), and visualize loan approval trends. The project uncovers critical insights into financial decision-making by integrating large-scale data processing through Synapse Spark Pools and leveraging Seaborn, Plotly, and Matplotlib. Key findings indicate that credit history is the most significant factor in loan approvals, with 85.4% of approved loans belonging to applicants with a strong credit record. Additionally, higher-income applicants are more likely to approve, while self-employed individuals face stricter scrutiny despite requesting higher loan amounts. The analysis further reveals that loan approvals are highest in Semi-Urban areas, with rural applicants experiencing lower success rates. Moreover, married and graduate applicants tend to receive higher loan amounts, highlighting the role of financial stability in lending decisions. This project provides data-driven insights for financial institutions, helping them refine risk assessment models, optimize lending policies, and improve eligibility criteria for better decision-making in loan approvals.
 
 
 
