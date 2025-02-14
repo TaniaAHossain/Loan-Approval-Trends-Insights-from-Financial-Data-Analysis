@@ -211,43 +211,43 @@ The resulting sunburst chart provides a hierarchical view of the loan data, allo
 
 # Potential Results and Reasoning
 
-* 1. Credit History is the Most Significant Factor in Loan Approvals
+- **1. Credit History is the Most Significant Factor in Loan Approvals**
 
      * Result: 85.4% of approved applicants have a strong credit history.
      * Reasoning: Lenders prioritize applicants with good credit records as they indicate lower default risk. Those with no credit history face a significantly lower approval rate.
 
       
-* 2. Income Levels Influence Loan Approvals and Loan Amounts
+- **2. Income Levels Influence Loan Approvals and Loan Amounts**
 
      * Result: Higher-income applicants tend to receive larger loan amounts.
      * Reasoning: Higher-income applicants are perceived as lower financial risk, making them eligible for larger loans and higher approval rates.
 
-* 3. Self-Employed Individuals Face More Scrutiny Despite Requesting Higher Loans
+- **3. Self-Employed Individuals Face More Scrutiny Despite Requesting Higher Loans**
 
       * Result: Self-employed applicants apply for larger loan amounts but have lower approval rates.
       * Reasoning: Variable income patterns and financial uncertainty among self-employed individuals result in stricter approval conditions.
         
-* 4. Married and Graduate Applicants Have a Higher Loan Approval Rate
+- **4. Married and Graduate Applicants Have a Higher Loan Approval Rate**
 
       * Result: Married and graduate applicants receive more loan approvals and larger loan amounts.
       * Reasoning: Dual-income stability in married couples and higher earning potential among graduates make them more creditworthy.
 
-* 5. Semi-Urban Areas Have the Highest Loan Approvals, Rural Areas the Lowest
+- **5. Semi-Urban Areas Have the Highest Loan Approvals, Rural Areas the Lowest**
      
       * Result: Loan approvals are highest in semi-urban areas and lowest in rural regions.
       * Reasoning: Semi-urban areas offer better financial stability and infrastructure, whereas rural areas may have higher financial risks and lower applicant income levels.
 
-* 6. Gender Disparity Exists in Loan Applications and Approvals
+- **6. Gender Disparity Exists in Loan Applications and Approvals**
 
       * Result: 81.14% of loan applicants are male, while only 18.86% are female.
       * Reasoning: Societal and economic factors contribute to fewer women applying for loans, and approval rates may differ due to considerations of income and employment stability.
 
-* 7. Loan Approval Rate is 44.6%, Indicating a High Rejection Rate.
+- **7. Loan Approval Rate is 44.6%, Indicating a High Rejection Rate.**
 
        * Result: 332 loans were approved, 148 were rejected, and 289 were pending.
        * Reasoning: Lenders use strict eligibility criteria such as credit history, income levels, and employment status to minimize financial risk.
 
-* 8. Loan Amounts Vary by Property Area and Credit History
+- **8. Loan Amounts Vary by Property Area and Credit History**
 
        * Result: Semi-Urban and Urban applicants receive higher loan amounts compared to Rural applicants.
        * Reasoning: Higher property values in urban and semi-urban areas lead to larger loan requests, while rural applicants typically request smaller loans due to lower property costs.
