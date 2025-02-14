@@ -133,15 +133,9 @@ FROM (
 ) AS CombinedData
 GROUP BY Property_Area;
 ```
-SELECT Property_Area, COUNT(*) AS Total_Applications
-FROM (
-    SELECT Loan_ID, Property_Area FROM train
-    UNION ALL
-    SELECT Loan_ID, Property_Area FROM test
-) AS CombinedData
-GROUP BY Property_Area;
-```
+
 ![Image](https://github.com/user-attachments/assets/17fc651c-c4a7-49a0-8c37-d9c947db7bc2)
+
 
 ### Excel Project
 
