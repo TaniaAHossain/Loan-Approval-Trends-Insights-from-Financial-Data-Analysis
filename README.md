@@ -252,7 +252,7 @@ The resulting sunburst chart provides a hierarchical view of the loan data, allo
        * Result: Semi-Urban and Urban applicants receive higher loan amounts compared to Rural applicants.
        * Reasoning: Higher property values in urban and semi-urban areas lead to larger loan requests, while rural applicants typically request smaller loans due to lower property costs.
 
-# Closing Remarks
+## Closing Remarks
 
 The loan approval analysis using Azure Synapse Analytics, SQL, and Power BI highlights key trends in creditworthiness, income influence, property area impact, and demographic variations. The insights can help financial institutions refine lending policies, target customer segments, and enhance risk assessment models. By leveraging data-driven decision-making, lenders can ensure fair, efficient, and profitable loan distribution while also addressing financial inclusion challenges.
 
