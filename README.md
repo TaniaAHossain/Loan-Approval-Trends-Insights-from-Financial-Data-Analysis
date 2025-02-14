@@ -97,10 +97,27 @@ ORDER BY Dataset, Total_Applicants DESC;
 ```
 ![Image](https://github.com/user-attachments/assets/88a72b42-e59c-423b-b384-383f52a2af08)
 
+```
+SELECT Credit_History, AVG(ApplicantIncome) AS Avg_Applicant_Income
+FROM (
+    SELECT Credit_History, ApplicantIncome FROM train
+    UNION ALL
+    SELECT Credit_History, ApplicantIncome FROM test
+) AS CombinedData
+GROUP BY Credit_History;
+```
+![Image](https://github.com/user-attachments/assets/4786eb15-4d62-4470-8178-75646e377f71)
 
-
-
-
+```
+SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount
+FROM (
+    SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount FROM train
+    UNION ALL
+    SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount FROM test
+) AS CombinedData
+WHERE ApplicantIncome > 5000;
+```
+![Image](https://github.com/user-attachments/assets/ebce5f07-137e-4133-88bc-9c9e8017cba9)
 
 
 
