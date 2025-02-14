@@ -61,6 +61,7 @@ The SQL queries analyze loan applications using Azure Synapse Analytics, merging
 
 ### Examples of Some Queries
 
+* **Loan Distribution by Property Area:**
 ```
 SELECT 'Train' AS Dataset, 
        Property_Area, 
@@ -79,6 +80,7 @@ ORDER BY Dataset, Total_Loans DESC;
 ```
 ![Image](https://github.com/user-attachments/assets/206a5317-6711-4ea1-b8a8-ca8d01f4b4ee)
 
+*  **Credit History Impact:**
 ```
 SELECT 'Train' AS Dataset, 
        Credit_History, 
@@ -97,6 +99,7 @@ ORDER BY Dataset, Total_Applicants DESC;
 ```
 ![Image](https://github.com/user-attachments/assets/88a72b42-e59c-423b-b384-383f52a2af08)
 
+* **Get the Average Applicant Income Based on Credit History:**
 ```
 SELECT Credit_History, AVG(ApplicantIncome) AS Avg_Applicant_Income
 FROM (
@@ -108,6 +111,7 @@ GROUP BY Credit_History;
 ```
 ![Image](https://github.com/user-attachments/assets/4786eb15-4d62-4470-8178-75646e377f71)
 
+* **Loan Applications Where Income is Higher Than a Certain Threshold:**
 ```
 SELECT Loan_ID, ApplicantIncome, CoapplicantIncome, LoanAmount
 FROM (
