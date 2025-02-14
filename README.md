@@ -213,14 +213,14 @@ The resulting sunburst chart provides a hierarchical view of the loan data, allo
 
 - **1. Credit History is the Most Significant Factor in Loan Approvals**
 
-     * Result: 85.4% of approved applicants have a strong credit history.
-     * Reasoning: Lenders prioritize applicants with good credit records as they indicate lower default risk. Those with no credit history face a significantly lower approval rate.
+      * Result: 85.4% of approved applicants have a strong credit history.
+      * Reasoning: Lenders prioritize applicants with good credit records as they indicate lower default risk. Those with no credit history face a significantly lower approval rate.
 
       
 - **2. Income Levels Influence Loan Approvals and Loan Amounts**
 
-     * Result: Higher-income applicants tend to receive larger loan amounts.
-     * Reasoning: Higher-income applicants are perceived as lower financial risk, making them eligible for larger loans and higher approval rates.
+      * Result: Higher-income applicants tend to receive larger loan amounts.
+      * Reasoning: Higher-income applicants are perceived as lower financial risk, making them eligible for larger loans and higher approval rates.
 
 - **3. Self-Employed Individuals Face More Scrutiny Despite Requesting Higher Loans**
 
