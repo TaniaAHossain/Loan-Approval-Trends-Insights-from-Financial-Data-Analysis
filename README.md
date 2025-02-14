@@ -188,15 +188,17 @@ This animated bar chart helps to explore trends and patterns in loan amounts and
 The treemap visually compares loan amounts and distributions across property areas, credit history, and approval status, highlighting key patterns and trends. It helps answer: How are loans distributed based on these factors? by providing a clear, hierarchical view for quick insights.
 
 
+* **Loan Amount Distribution by Property Area:**
 
+![Image](https://github.com/user-attachments/assets/c669d8cd-acd3-4c3b-ba62-161b4e7621ca)
 
+The violin plot helps to answer the question: How are loan amounts distributed across different property areas? It achieves this by visually representing the distribution of loan amounts for each property area using a violin-shaped plot, making it easier to compare the distributions and identify potential differences.
 
+* **Loan Amount vs. Coapplicant Income:**
 
+![Image](https://github.com/user-attachments/assets/0e7b652a-8d20-441d-828e-fe7c773541f9)
 
-
-
-
-
+This analysis explores the impact of coapplicant income and loan amount on loan approval status. The bubble chart visually represents this relationship, with size indicating loan amount and color showing approval status, making trends easy to identify.
 
 
 
