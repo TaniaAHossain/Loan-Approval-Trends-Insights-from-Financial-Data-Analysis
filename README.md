@@ -173,15 +173,19 @@ The Loan Approval Prediction project uses Azure Synapse Analytics and PySpark to
 
 ![Image](https://github.com/user-attachments/assets/260a2afc-3607-489c-b261-ed2e293569e7)
 
-The interactive loan amount trends analysis highlights key factors influencing loan approvals and amounts across different demographic and financial categories. Gender differences show minimal impact, while married individuals receive higher loan amounts, likely due to dual-income stability. Graduates secure larger loans, reflecting their higher earning potential and financial security. Self-employed applicants tend to take larger but more variable loans, indicating their diverse financial needs and income fluctuations. Urban applicants receive higher loan amounts, aligning with higher property values, and applicants with a strong credit history are favored in loan approvals. This analysis provides insights for lenders to refine loan policies, ensuring fair and data-driven lending decisions while managing risk effectively.
+The interactive loan amount trends analysis reveals key factors in loan approvals. Married applicants and graduates receive higher loans due to financial stability, while self-employed individuals take larger but variable loans. Urban applicants secure higher amounts due to property values, and a strong credit history boosts approval chances. These insights help lenders refine policies for fair, data-driven lending and risk management.
 
+* **Loan Approvals over Property Area:**
 
+![Image](https://github.com/user-attachments/assets/2018a194-69cb-4e16-adf8-fb3a5722a591)
 
+This animated bar chart helps to explore trends and patterns in loan amounts and approvals based on property area and credit history, providing insights into the factors influencing loan decisions.
 
+* **Loan Status by Property Area and Credit History:**
 
+![Image](https://github.com/user-attachments/assets/f1daa409-1a6c-4d46-b2c8-6418e6c93746)
 
-
-
+The treemap visually compares loan amounts and distributions across property areas, credit history, and approval status, highlighting key patterns and trends. It helps answer: How are loans distributed based on these factors? by providing a clear, hierarchical view for quick insights.
 
 
 
