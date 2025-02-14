@@ -78,7 +78,7 @@ FROM test
 GROUP BY Property_Area
 ORDER BY Dataset, Total_Loans DESC;
 ```
-[![Image](https://github.com/user-attachments/assets/bd5e3c96-9db1-4a7b-9926-7eee8d5c6c5b)](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/main/Images-for-readme/Loan%20Distribution%20by%20Property%20Area%201.jpeg?raw=true)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/30ef3be84a36e27abb05b50cf18f4a04703a8f9c/Images-for-readme/Loan%20Distribution%20by%20Property%20Area%201.jpeg)
 
 *  **Credit History Impact:**
 ```
