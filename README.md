@@ -97,7 +97,7 @@ FROM test
 GROUP BY Credit_History
 ORDER BY Dataset, Total_Applicants DESC;
 ```
-![Image](https://github.com/user-attachments/assets/88a72b42-e59c-423b-b384-383f52a2af08)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/fe50e0c226de3f3933e67e5335fcac4e74c7d04b/Images-for-readme/Credit%20History%20Impact.png)
 
 * **Get the Average Applicant Income Based on Credit History:**
 ```
@@ -109,7 +109,7 @@ FROM (
 ) AS CombinedData
 GROUP BY Credit_History;
 ```
-![Image](https://github.com/user-attachments/assets/4786eb15-4d62-4470-8178-75646e377f71)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/fe50e0c226de3f3933e67e5335fcac4e74c7d04b/Images-for-readme/Get%20the%20Average%20Applicant%20Income%20Based%20on%20Credit%20History.png)
 
 * **Loan Applications Where Income is Higher Than a Certain Threshold:**
 ```
