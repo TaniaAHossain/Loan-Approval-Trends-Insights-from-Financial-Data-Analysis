@@ -136,6 +136,7 @@ GROUP BY Property_Area;
 
 ![Image](https://github.com/user-attachments/assets/17fc651c-c4a7-49a0-8c37-d9c947db7bc2)
 
+The SQL analysis highlights that credit history is the strongest predictor of loan approvals, with higher-income applicants and urban residents receiving more loans. Self-employed applicants face stricter scrutiny despite requesting higher amounts. Trends in train and test datasets remain consistent, confirming the data’s reliability for predictive modeling. This analysis helps financial institutions refine risk assessment models and optimize loan approval strategies.
 
 ### Excel Project
 
