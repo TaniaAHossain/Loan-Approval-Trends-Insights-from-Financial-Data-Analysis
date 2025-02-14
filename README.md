@@ -209,7 +209,7 @@ This analysis explores the impact of co-applicant income and loan amount on loan
 
 The resulting sunburst chart provides a hierarchical view of the loan data, allowing for the exploration of relationships between loan status, dependents, and gender. The size of each segment reflects the frequency of that specific combination of factors. This visualization helps identify patterns and understand how these factors might influence loan approvals.
 
-# Potential Results and Reasoning
+## Potential Results and Reasoning
 
 - **1. Credit History is the Most Significant Factor in Loan Approvals**
 
