@@ -172,42 +172,61 @@ The Loan Approval Prediction project uses Azure Synapse Analytics and PySpark to
 ### Some examples of the 
 
 
-### **Interactive Loan Amount Trends Across Different Variables:**
+### **Interactive Loan Amount Trends Across Different Variables**
 
 ![Image](https://github.com/user-attachments/assets/260a2afc-3607-489c-b261-ed2e293569e7)
 
 The interactive loan amount trends analysis reveals key factors in loan approvals. Married applicants and graduates receive higher loans due to financial stability, while self-employed individuals take larger but variable loans. Urban applicants secure higher amounts due to property values, and a strong credit history boosts approval chances. These insights help lenders refine policies for fair, data-driven lending and risk management.
 
-* **Loan Approvals over Property Area:**
+* **Loan Approvals over Property Area**
 
 ![Image](https://github.com/user-attachments/assets/2018a194-69cb-4e16-adf8-fb3a5722a591)
 
 This animated bar chart helps to explore trends and patterns in loan amounts and approvals based on property area and credit history, providing insights into the factors influencing loan decisions.
 
-### **Loan Status by Property Area and Credit History:**
+### **Loan Status by Property Area and Credit History**
 
 ![Image](https://github.com/user-attachments/assets/f1daa409-1a6c-4d46-b2c8-6418e6c93746)
 
 The treemap visually compares loan amounts and distributions across property areas, credit history, and approval status, highlighting key patterns and trends. It helps answer: How are loans distributed based on these factors? by providing a clear, hierarchical view for quick insights.
 
 
-### **Loan Amount Distribution by Property Area:**
+### **Loan Amount Distribution by Property Area**
 
 ![Image](https://github.com/user-attachments/assets/c669d8cd-acd3-4c3b-ba62-161b4e7621ca)
 
 The violin plot helps to answer the question: How are loan amounts distributed across different property areas? It achieves this by visually representing the distribution of loan amounts for each property area using a violin-shaped plot, making it easier to compare the distributions and identify potential differences.
 
-### **Loan Amount vs. Coapplicant Income:**
+### **Loan Amount vs. Coapplicant Income**
 
 ![Image](https://github.com/user-attachments/assets/0e7b652a-8d20-441d-828e-fe7c773541f9)
 
 This analysis explores the impact of co-applicant income and loan amount on loan approval status. The bubble chart visually represents this relationship, with size indicating loan amount and color showing approval status, making trends easy to identify.
 
-### **Loan Status and Dependents:**
+### **Loan Status and Dependents**
 
 ![Image](https://github.com/user-attachments/assets/6331d0d3-c533-4d32-8bbb-cedbfd679594)
 
 The resulting sunburst chart provides a hierarchical view of the loan data, allowing for the exploration of relationships between loan status, dependents, and gender. The size of each segment reflects the frequency of that specific combination of factors. This visualization helps in identifying patterns and understanding how these factors might influence loan approvals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
