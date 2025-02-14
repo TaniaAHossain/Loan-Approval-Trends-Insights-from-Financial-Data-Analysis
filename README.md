@@ -79,7 +79,23 @@ ORDER BY Dataset, Total_Loans DESC;
 ```
 ![Image](https://github.com/user-attachments/assets/206a5317-6711-4ea1-b8a8-ca8d01f4b4ee)
 
+```
+SELECT 'Train' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM train
+GROUP BY Credit_History
 
+UNION ALL
+
+SELECT 'Test' AS Dataset, 
+       Credit_History, 
+       COUNT(*) AS Total_Applicants
+FROM test
+GROUP BY Credit_History
+ORDER BY Dataset, Total_Applicants DESC;
+```
+![Image](https://github.com/user-attachments/assets/88a72b42-e59c-423b-b384-383f52a2af08)
 
 
 
