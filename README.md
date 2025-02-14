@@ -144,7 +144,7 @@ The SQL analysis highlights that credit history is the strongest predictor of lo
 
 ![Power BI dashboard Analysis](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-from-Financial-Data-Analysis/blob/8ce5a9e4b68a53e8424af20029a5f25788b19ccd/Excel-Project-of-Finance-Loan-Approval-Data/Power%20BI%20dashboard%20analysis%20README%20(1).md)
 
-![Power Bi dashboard images](https://github.com/user-attachments/assets/7b716a5b-a455-49c4-9d35-c2431bc15b3c)
+![Power Bi dashboard images](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/61ffd8d86a78b2ad80e7b7b695852b059d795bd0/Excel-Project-of-Finance-Loan-Approval-Data/Finance%20Loan%20Approval%20Data%20dashboard%20Image.jpg)
 
 The Loan Application Insights Dashboard comprehensively analyzes loan application trends and approval rates based on multiple factors such as gender, education level, property area, and income. Here’s a summary analysis:
 
