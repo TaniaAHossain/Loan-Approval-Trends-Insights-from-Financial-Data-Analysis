@@ -50,7 +50,7 @@ The primary objective of this project is to leverage Azure Synapse Analytics, SQ
 
 ## Exploratory Analysis and Visualization
 
-### SQL Analysis
+## SQL Analysis
 
 The SQL queries analyze loan applications using Azure Synapse Analytics, merging train and test datasets to extract key insights.
 
