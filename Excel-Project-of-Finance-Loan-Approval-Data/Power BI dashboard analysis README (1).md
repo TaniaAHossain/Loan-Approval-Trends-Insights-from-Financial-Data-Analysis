@@ -1,5 +1,5 @@
 # Finance Loan Approval Prediction Dataset
-![Image](https://github.com/user-attachments/assets/640b528f-1903-4592-a73f-3b8d493803ba)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/027d415bad3e04f8e0b836c5349c10e68cdf8931/Excel-Project-of-Finance-Loan-Approval-Data/loan_approval_banner_3_1_2.jpg)
 
 ## Dashboard Analysis using Power BI 
 ## Overview 
