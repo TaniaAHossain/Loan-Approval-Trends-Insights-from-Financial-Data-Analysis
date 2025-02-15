@@ -130,7 +130,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Loan Amount Distribution by Property Area 
 
-![Image](https://github.com/user-attachments/assets/03917542-f0a8-4bc7-b865-0b58417ed7e3)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/c3aa3eb87eae00d25a81b04cdd7ea2fb663b8c63/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Distribution%20by%20Property%20Area.png)
 
 **Description:**
  - Shows loan amount variations across Urban, Semi-Urban, and Rural areas.
