@@ -172,7 +172,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Higher loan amounts (>400) are less frequent, suggesting stricter approval conditions.
 
 # Loan Amount Distribution by Marital Status 
-![Image](https://github.com/user-attachments/assets/72cea29b-97b1-4393-b4b1-8d034f2b4c02)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/0e1b439bc7626ef9d78e0bb0b580faadd730882e/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Distribution%20by%20Marital%20Status.png)
 
 **Description:** 
 - Compares the proportion of loans by marital status (Married vs. Single).
@@ -182,7 +182,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - This could indicate that married applicants have higher approval rates, possibly due to dual income sources.
 
 # Loan Amount Trend by Education Level 
-![Image](https://github.com/user-attachments/assets/821257d3-5fbd-43a8-9d6c-47b61292d062)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/0e1b439bc7626ef9d78e0bb0b580faadd730882e/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Trend%20by%20Education%20Level.png)
 
 **Description:**
 - Shows the average loan amount trends between graduates and non-graduates.
