@@ -192,7 +192,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - This suggests that education level may influence the perceived financial stability of applicants.
 
  # Loan Status by Gender 
-![Image](https://github.com/user-attachments/assets/17db33af-c582-44a9-ae8e-751a91b33236)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/0e1b439bc7626ef9d78e0bb0b580faadd730882e/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Trend%20by%20Education%20Level.png)
 
 **Description:**
 - Examines loan approval trends across male and female applicants.
@@ -202,7 +202,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Female applicants tend to have lower approval rates, which may indicate income differences or risk assessment biases.
 
 # Loan Status by Property Area 
-![Image](https://github.com/user-attachments/assets/f9d44f5e-7512-4d30-bcfa-ed5a08bb981c)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/99b2a4d18e045df81309022652c03ff9a891e168/Images-for-Finance-Loan-Approval-Data/Loan%20Status%20by%20Property%20Area.png)
 
 **Description:**
 - Compares loan approvals across Rural, Urban, and Semi-Urban areas.
