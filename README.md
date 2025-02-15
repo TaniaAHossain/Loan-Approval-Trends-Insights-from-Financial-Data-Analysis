@@ -180,7 +180,7 @@ The interactive loan amount trends analysis reveals key factors in loan approval
 
 * **Loan Approvals over Property Area**
 
-![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8306fd38cb988361a3ffe3073c952986ec6c08fc/Images-for-Finance-Loan-Approval-Data/Loan%20Amounts%20by%20Property%20Area%20over%20Credit%20History%20(Animated%20Bar%20Chart).png)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8306fd38cb988361a3ffe3073c952986ec6c08fc/Images-for-Finance-Loan-Approval-Data/Loan%20Amounts%20by%20Property%20Area%20over%20Credit%20History%20(Animated%20Bar%20Chart.png)
 
 This animated bar chart helps to explore trends and patterns in loan amounts and approvals based on property area and credit history, providing insights into the factors influencing loan decisions.
 
@@ -193,19 +193,19 @@ The treemap visually compares loan amounts and distributions across property are
 
 ### **Loan Amount Distribution by Property Area**
 
-![Image](https://github.com/user-attachments/assets/c669d8cd-acd3-4c3b-ba62-161b4e7621ca)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/1934da27819b0e40b1b900572002335246bb3272/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Distribution%20by%20Property%20Area.png)
 
 The violin plot helps to answer the question: How are loan amounts distributed across different property areas? It achieves this by visually representing the distribution of loan amounts for each property area using a violin-shaped plot, making it easier to compare the distributions and identify potential differences.
 
 ### **Loan Amount vs. Coapplicant Income**
 
-![Image](https://github.com/user-attachments/assets/0e7b652a-8d20-441d-828e-fe7c773541f9)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/1934da27819b0e40b1b900572002335246bb3272/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20vs%20Coapplicant%20Income.png)
 
 This analysis explores the impact of co-applicant income and loan amount on loan approval status. The bubble chart visually represents this relationship, with size indicating loan amount and color showing approval status, making trends easy to identify.
 
 ### **Loan Status and Dependents**
 
-![Image](https://github.com/user-attachments/assets/6331d0d3-c533-4d32-8bbb-cedbfd679594)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/1934da27819b0e40b1b900572002335246bb3272/Images-for-Finance-Loan-Approval-Data/Loan%20Status%20and%20Dependents%20Analysis.png)
 
 The resulting sunburst chart provides a hierarchical view of the loan data, allowing for the exploration of relationships between loan status, dependents, and gender. The size of each segment reflects the frequency of that specific combination of factors. This visualization helps identify patterns and understand how these factors might influence loan approvals.
 
