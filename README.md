@@ -1,6 +1,6 @@
 # Loan-Approval-Trends-Insights-from-Financial-Data
 
-![Image](https://github.com/user-attachments/assets/b1df4564-d1c8-4d3a-aaa0-16d81b69561c)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/ceee4a08a33b54cb7aed77adb714a100a9346c5f/Images-for-readme/22df4ce4-f952-4698-a7db-fec310fd4f74.jpeg)
 
 This repository comprehensively analyzes loan application data, leveraging Azure Synapse Analytics, SQL, and Power BI to extract meaningful insights. It contains:
 
