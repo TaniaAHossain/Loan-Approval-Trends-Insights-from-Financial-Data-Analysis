@@ -108,7 +108,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 ## Impact of Credit History on Loan Approval 
 
-![Image](https://github.com/user-attachments/assets/730c4787-3be9-430f-bf58-971479d570e0)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/dfa295d08ee58aa21b2271f6a41631ece58c370b/Images-for-Finance-Loan-Approval-Data/Impact%20of%20Credit%20History%20on%20Loan%20Approval.png)
 
 **Description:**
  * Shows the number of approved and rejected applications based on credit history.
