@@ -75,7 +75,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Many loans with low co-applicant income are rejected.
 
 # Loan Status and Dependents Analysis 
-![Image](https://github.com/user-attachments/assets/3a0bba72-891d-4ac7-aeff-c81274e0ff5d)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8710d32e7f6b4c47744311ccd90c668192d890bc/Images-for-Finance-Loan-Approval-Data/Loan%20Status%20and%20Dependents%20Analysis.png)
 
 **Description:**
 - Examines loan approval rates based on gender and number of dependents.
