@@ -43,7 +43,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 # Visualization Analysis
 
 ## Loan Status by Property Area and Credit History 
-![Image](https://github.com/user-attachments/assets/57a5837c-a088-40fd-954d-baa82315e6a4)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/2612beb7d6462cc9faca5824c28480de33340377/Images-for-Finance-Loan-Approval-Data/(Treemap)Loan%20Status%20by%20Property%20Area%20and%20Credit%20History.png)
 
 **Description:**
    * This treemap categorizes loan approval status by property area and credit history.
