@@ -64,7 +64,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Semi-Urban areas receive the highest loan amounts.
 
  # Loan Amount vs Coapplicant Income 
-![Image](https://github.com/user-attachments/assets/bdac2d0d-7555-492f-9914-e9877d2ddad0)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/45097085c9372e7be55d4014b9183b4f3d096a44/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20vs%20Coapplicant%20Income.png)
 
 **Description:**
 - Analyzes the impact of co-applicant income on loan amounts.
