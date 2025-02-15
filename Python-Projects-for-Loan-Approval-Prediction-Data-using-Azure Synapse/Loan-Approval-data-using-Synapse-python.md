@@ -152,7 +152,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Credit History Distribution 
 
-![Image](https://github.com/user-attachments/assets/49b64cc8-2701-4231-bc9f-2066a81dcb02)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/edc0de0b70ccc3e383477494b50c21c673f8dad9/Images-for-Finance-Loan-Approval-Data/Credit%20History%20Distribution.png)
 
 **Description:**
 - Displays the proportion of applicants with good (1) vs. no credit history (0).
@@ -162,7 +162,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - This indicates that most applicants have an existing financial history, which could improve their approval chances.
 
 # Distribution of Loan Amounts
-![Image](https://github.com/user-attachments/assets/96e5de11-b8ca-4bfc-a25b-6a3aa1d44053)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/f964d805dc896f6a1e42fad7d022b14c33734b16/Images-for-Finance-Loan-Approval-Data/Distribution%20of%20Loan%20Amounts.png)
 
 **Description:**
 - Represents the frequency of different loan amounts across applicants.
