@@ -97,7 +97,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
  * High-income applicants have varying approval rates, suggesting other eligibility factors play a role.
 
 ## Average Loan Amount by Employment Type 
-![Image](https://github.com/user-attachments/assets/975a0ced-6287-42d6-9b03-dc504429b8c1)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/02b08954d7f700b6ac6d74f82f52e94646b2bddd/Images-for-Finance-Loan-Approval-Data/Average%20Loan%20Amount%20by%20Employment%20Type.png)
 
 **Description:**
  * Displays average loan amounts for Self-Employed vs Salaried applicants.
