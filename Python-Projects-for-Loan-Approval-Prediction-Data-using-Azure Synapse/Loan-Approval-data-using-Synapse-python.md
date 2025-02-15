@@ -54,7 +54,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
   * The Urban and Semi-Urban areas see a greater number of approvals compared to Rural areas.
 
 # Loan Amounts by Property Area over Credit History 
-![Image](https://github.com/user-attachments/assets/39004868-d5e4-40fd-a1c9-0924ff00a887)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/45097085c9372e7be55d4014b9183b4f3d096a44/Images-for-Finance-Loan-Approval-Data/Loan%20Amounts%20by%20Property%20Area%20over%20Credit%20History%20(Animated%20Bar%20Chart).png)
 
 **Description:**
 - Displays loan amounts for different property areas, separated by credit history.
