@@ -85,7 +85,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 - Dependents impact approval rates, with higher dependents reducing approval probability.
 
 ##  Applicant Income vs Loan Amount 
-![Image](https://github.com/user-attachments/assets/3a5fccae-1e7f-4f77-acf8-993d9dd6c26c)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/3feff5f4841748dc0bbaabb9bf559615316da8f8/Images-for-Finance-Loan-Approval-Data/Applicant%20Income%20vs%20Loan%20Amount.png)
 
 **Description:**
  * Compares applicant income to the requested loan amount.
