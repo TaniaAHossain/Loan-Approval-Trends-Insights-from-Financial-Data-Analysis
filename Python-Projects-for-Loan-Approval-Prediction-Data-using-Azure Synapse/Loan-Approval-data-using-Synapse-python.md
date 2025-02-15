@@ -141,7 +141,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Loan Approval Rate by Credit History
 
-![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/c3aa3eb87eae00d25a81b04cdd7ea2fb663b8c63/Images-for-Finance-Loan-Approval-Data/Loan%20Amount%20Distribution%20by%20Property%20Area.png)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/b6241e683f03e9b486cbce9eb4f0a7608e920508/Images-for-Finance-Loan-Approval-Data/Loan%20Approval%20Rate%20by%20Credit%20History.png)
 
 **Description:**
 - Highlights the proportion of approved loans for different credit histories.
