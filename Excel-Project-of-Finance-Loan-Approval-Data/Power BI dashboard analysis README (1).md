@@ -5,7 +5,7 @@
 ## Overview 
 This interactive dashboard provides an in-depth analysis of loan applications, approvals, rejections, and various influencing factors such as applicant income, education, property location, and gender distribution. The insights from this dashboard help in understanding trends in loan approval processes and assist in decision-making.
 
-![Image](https://github.com/user-attachments/assets/7b716a5b-a455-49c4-9d35-c2431bc15b3c)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/920d9738dc47e071fe6357a163bc5f177fd35a78/Excel-Project-of-Finance-Loan-Approval-Data/Finance%20Loan%20Approval%20Data%20dashboard%20Image.jpg)
 
 ## 1. Dashboard Components & Key Insights
 ## A. Applicant Demographics Analysis
