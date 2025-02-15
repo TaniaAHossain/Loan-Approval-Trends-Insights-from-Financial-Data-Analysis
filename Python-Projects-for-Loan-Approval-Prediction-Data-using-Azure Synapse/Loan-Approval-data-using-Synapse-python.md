@@ -119,7 +119,7 @@ The Jupyter Notebook is designed to analyze loan application data using Azure Sy
 
 # Interactive Distribution of Loan Amounts
 
-![Image](https://github.com/user-attachments/assets/68ebdf90-38f9-4a17-9375-eda1c0365849)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/312739c5efca0cb021bc48808e77317c2a2ba786/Images-for-Finance-Loan-Approval-Data/Interactive%20Distribution%20of%20Loan%20Amounts.png)
 
 **Description:**
  - Represents the distribution of loan amounts across applicants.
