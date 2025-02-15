@@ -174,13 +174,13 @@ The Loan Approval Prediction project uses Azure Synapse Analytics and PySpark to
 
 ### **Interactive Loan Amount Trends Across Different Variables**
 
-![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8306fd38cb988361a3ffe3073c952986ec6c08fc/Images-for-Finance-Loan-Approval-Data/Interactive%20Loan%20Amount%20Trends%20Across%20Different%20Variables.jpg))
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8306fd38cb988361a3ffe3073c952986ec6c08fc/Images-for-Finance-Loan-Approval-Data/Interactive%20Loan%20Amount%20Trends%20Across%20Different%20Variables.jpg)
 
 The interactive loan amount trends analysis reveals key factors in loan approvals. Married applicants and graduates receive higher loans due to financial stability, while self-employed individuals take larger but variable loans. Urban applicants secure higher amounts due to property values, and a strong credit history boosts approval chances. These insights help lenders refine policies for fair, data-driven lending and risk management.
 
 * **Loan Approvals over Property Area**
 
-![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/8306fd38cb988361a3ffe3073c952986ec6c08fc/Images-for-Finance-Loan-Approval-Data/Loan%20Amounts%20by%20Property%20Area%20over%20Credit%20History%20(Animated%20Bar%20Chart.png)
+![Image](https://github.com/TaniaAHossain/Loan-Approval-Trends-Insights-in-Azure-Synapse-Analytics/blob/eed9fbb68c7d3356928aabbc3a1c25a719c99bae/Images-for-Finance-Loan-Approval-Data/Loan%20Amounts%20by%20Property%20Area%20over%20Credit%20History%20(Animated%20Bar%20Chart).png)
 
 This animated bar chart helps to explore trends and patterns in loan amounts and approvals based on property area and credit history, providing insights into the factors influencing loan decisions.
 
